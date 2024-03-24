@@ -46,6 +46,6 @@ function Chat({chatId}:Props ) {
       ))}
     </div>
   );
-}
+}  
 
 export default Chat
